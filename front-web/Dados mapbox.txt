@@ -1,0 +1,16 @@
+Use Name: campigoto
+
+Email   : campigoto@hotmail.com
+
+Password: 036239ec@
+
+Default public token: pk.eyJ1IjoiY2FtcGlnb3RvIiwiYSI6ImNram9tZm4xejB6eTQyeHF1N2c1OW4zcHQifQ.q516PtceRCNw9jwJgCuSPQ
+
+------------------------
+Deploys for competent-kowalevski-cffdfb
+
+https://competent-kowalevski-cffdfb.netlify.app
+https://github.com/Campigoto/dsdeliver-sds2
+
+github.com/Campigoto/dsdeliver-sds2, published main@HEAD.
+https://github.com/Campigoto/dsdeliver-sds2
