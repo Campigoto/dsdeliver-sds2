@@ -1,7 +1,5 @@
 
-import { InternalSymbolName } from 'typescript';
 import { formatPrice } from './helpers';
-import {ReactComponent as Pizza} from './pizza.svg';
 import { Product } from './types';
 
 type Props = {
